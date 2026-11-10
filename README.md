@@ -1,1 +1,1 @@
-Don't try file "Bomb" to your real pc
+Don't try Dos to someone else server
